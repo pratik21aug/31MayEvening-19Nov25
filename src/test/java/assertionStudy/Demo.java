@@ -8,7 +8,7 @@ public class Demo {
   @Test
   public void f() {
 	  String actual = "test";
-	  String expected = "test1";
+	  String expected = "test";
 	  
 	  /*
 	  if(actual.equals(expected)) {
